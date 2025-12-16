@@ -12,15 +12,15 @@ title = "tinkie.me"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  copyright = "Copy, _right?_ :thinking_face:"
+  # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "tinkie"
+  name = "Tinkie"
   email = "SadTinkie@gmail.com"
   image = "img/profile.jpg"
   imageQuality = 96
   headline = "I be Gaming!"
-  bio = "A little bit about you"
+#   bio = "A little bit about you"
   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

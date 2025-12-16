@@ -12,14 +12,14 @@
 
 [[main]]
   identifier = "donate"
-  pre = "mug-hot"
+  pre = "heart"
   url = "https://streamelements.com/tinkiebear"
   weight = 10
 
 [[main]]
   identifier = "contact"
   pre = "envelope"
-  url = "SadTinkie@gmail.com"
+  url = "mailto:SadTinkie@gmail.com"
   weight = 20
 
 #[[main]]
